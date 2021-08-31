@@ -1,0 +1,21 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    width: 100hv;
+    height: 100vh;
+    position: relative;
+}
+header p{
+    color: #eeeeee;
+    text-shadow: 1px 1px 10px #222222;
+    font-size: 60px;
+
+    margin: auto;
+}
